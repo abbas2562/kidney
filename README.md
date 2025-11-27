@@ -1,2 +1,2 @@
-# kidney
-Kidney stone and tumor detection using cnn
+# kidney Stone Detection
+Kidney-stone-and-tumor-detection-model-using-CNN
